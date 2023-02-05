@@ -18,4 +18,4 @@ Come say hi at any of my links provided below.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/luciagvz) - [WildeHeorte](https://www.wildeheorte.wordpress.com) - [ResearhGate](https://www.researchgate.net/profile/Lucia-Gomez-9)
+[LinkedIn](https://www.linkedin.com/in/luciagvz) - [WildeHeorte](https://wildeheorte.wordpress.com) - [ResearhGate](https://www.researchgate.net/profile/Lucia-Gomez-9)
