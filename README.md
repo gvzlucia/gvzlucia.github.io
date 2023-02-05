@@ -9,5 +9,3 @@ In 2022 I launched a [personal project](https://wildeheorte.wordpress.com); a we
 Lastly, I here quote a piece of E.E. Cummings words "(for young is the year, for young is the year) / let's touch the sky: / with a great (and a gay and a steep) deep rush through amazing day [...] let's do as an earth which can never do wrong does / (minute by second and most by more) / let's touch the sky: / with a strange (and a true) / and a climbing fall into far near blue".
 
 [^1]: A hushed, curious soul.
-
-theme: minima
